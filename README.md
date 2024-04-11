@@ -2,9 +2,9 @@
 ## Màster Universitari en Ciència de Dades de la UOC
 
 Aquest PAC consisteix en l'estudi de tècniques de visualització de dades. Aquestes són les 3 tècniques sobre les quals s'ha treballat en aquesta PAC2: :
-  1 -> Circle Packing
-  2 -> Sunburst
-  3 -> Ridgeline Chart
+- Circle Packing
+- Sunburst
+- Ridgeline Chart
 
 ### Autor
   * Guillem Mata Valligny - (gmatav@uoc.edu)
