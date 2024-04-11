@@ -9,9 +9,6 @@ Aquest treball consisteix en l'estudi de tècniques de visualització de dades. 
 ### Autor
   * Guillem Mata Valligny - (gmatav@uoc.edu)
 
-### Tècniques
-
-
 ### Descripció del repositori
 
   * Carpeta "src": Conté els codis font de les visualitzacions (per al Sunburst i els Ridgelines).
