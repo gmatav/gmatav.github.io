@@ -1,4 +1,4 @@
-# library
+# llibreries
 library(ggridges)
 library(ggplot2)
 library(viridis)
