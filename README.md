@@ -16,5 +16,5 @@ Aquest treball consisteix en l'estudi de tècniques de visualització de dades. 
   * Carpeta "*img*": Conté la imatge corresponent a la visulització Ridgelines, ja que és estàtica, i no dinàmica com les altres.
 
 ### Descripció dels datasets
-  * asturias_temp.xlsx : Aquest dataset inclou les temperatures registrades a l'aeroport per a cada mes, des de l'any 1990 fins al 2024.
+  * asturias_temp.xlsx : Aquest dataset inclou les temperatures registrades a l'aeroport d'Asturies, per a cada mes, des de l'any 1990 fins al 2024.
   * paro_juvenil.xlsx : Aquest dataset conté la taxa d'atur d'Espanya, dividida segons el sexe, el nivell educatiu i el grup d'edat per a l'any 2023.
