@@ -16,6 +16,6 @@ Aquest treball consisteix en l'estudi de tècniques de visualització de dades. 
   * Carpeta "*img*": Conté la imatge corresponent a la visulització Ridgelines, ja que és estàtica, i no dinàmica com les altres.
 
 ### Descripció dels datasets
-  * asturias_temp.xlsx : Aquest dataset inclou les temperatures registrades a l'aeroport d'Asturies, per a cada mes, des de l'any 1990 fins al 2024. Aquest dataset ha estat utilitzat per a la creació de la visualització 3 (Ridgeline Chart). 
-  * paro_juvenil.xlsx : Aquest dataset conté la taxa d'atur d'Espanya, dividida segons el sexe, el nivell educatiu i el grup d'edat per a l'any 2023. Aquest dataset ha estat utilitzat per a la creació de la visualització 2 (Sunburst Chart). 
-  * poblacio_espanyola.csv : Aquest dataset conté la població de les províncies espanyoles per a l'any 2023. Aquesta dataset ha estat utilitzat per a la creació de la visualització 1 (Circle Packing). 
+  * *asturias_temp.xlsx* : Aquest dataset inclou les temperatures registrades a l'aeroport d'Asturies, per a cada mes, des de l'any 1990 fins al 2024. Aquest dataset ha estat utilitzat per a la creació de la visualització 3 (Ridgeline Chart). 
+  * *paro_juvenil.xlsx* : Aquest dataset conté la taxa d'atur d'Espanya, dividida segons el sexe, el nivell educatiu i el grup d'edat per a l'any 2023. Aquest dataset ha estat utilitzat per a la creació de la visualització 2 (Sunburst Chart). 
+  * *poblacio_espanyola.csv* : Aquest dataset conté la població de les províncies espanyoles per a l'any 2023. Aquesta dataset ha estat utilitzat per a la creació de la visualització 1 (Circle Packing). 
